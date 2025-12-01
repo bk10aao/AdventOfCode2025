@@ -46,5 +46,6 @@ public class Day01 {
         List<String> input = FileLoader.loadResourceFile("day_01.txt");
         System.out.printf("Part one: %d\n", Day01.partOne(input));
         System.out.printf("Part two: %d\n", Day01.partTwo(input));
+
     }
 }
