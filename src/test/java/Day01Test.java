@@ -1,5 +1,4 @@
-import CustomSetV2.Day01;
-import org.junit.jupiter.api.BeforeEach;
+import AdventOfCode2025.Day01;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

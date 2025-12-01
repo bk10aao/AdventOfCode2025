@@ -1,4 +1,4 @@
-package CustomSetV2;
+package AdventOfCode2025;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

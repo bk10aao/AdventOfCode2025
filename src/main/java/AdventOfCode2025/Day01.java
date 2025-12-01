@@ -1,4 +1,4 @@
-package CustomSetV2;
+package AdventOfCode2025;
 
 import java.io.IOException;
 import java.util.List;
